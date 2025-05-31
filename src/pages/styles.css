@@ -2,6 +2,22 @@ body{
   background-color: #a3bbad;
 }
 
+ul {
+  list-style-type: none;
+}
+
+a {
+  outline-color: transparent;
+}
+
+a:hover {
+  color: #ADC2B6;
+}
+
+a:visited {
+  color:#7EA08C;
+}
+
 .noto-sans-thin {
   font-family: "Noto Sans", sans-serif;
   font-optical-sizing: auto;
@@ -43,6 +59,7 @@ button {
   margin: .5rem;
   margin-left: 1rem;
   margin-right: 1rem;
+  margin-bottom: 2rem;
   width: 12rem;
   height: 2rem;
   transition: all 0.3s ease-in;

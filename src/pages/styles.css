@@ -8,6 +8,8 @@ ul {
 
 a {
   outline-color: transparent;
+  color: aliceblue;
+  text-decoration: none;
 }
 
 a:hover {

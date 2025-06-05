@@ -4,8 +4,35 @@ body{
   padding-right: 5rem;
 }
 
+p{
+  border: #7EA08C;
+  border-radius: 1rem;
+  border-style: dashed;
+  border-spacing: .2rem;
+  box-shadow: #000000;
+}
+
 ul {
   list-style-type: none;
+}
+
+img {
+  border: #7EA08C;
+  border-radius: 3.5rem;
+  border-style: groove;
+  border-spacing: .2rem;
+  box-shadow: #000000;
+  border-radius: 10rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+}
+
+iframe {
+  border: #7EA08C;
+  border-radius: 3.5rem;
+  border-style: dotted;
+  border-spacing: .2rem;
+  box-shadow: #000000;
 }
 
 a {
